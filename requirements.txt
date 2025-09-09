@@ -1,7 +1,13 @@
 streamlit
 tensorflow-cpu
 numpy
-pillow
 marimo
 keras
 matplotlib
+scikit-learn
+seaborn
+cv2
+streamlit-drawable-canvas
+
+# marimo export ipynb notebook.py -o notebook.ipynb   
+# marimo export ipynb "Dataset MNIST Analysis.py" -o mnist_model_notebook.ipynb
