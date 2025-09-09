@@ -84,7 +84,7 @@ The notebook code was initially written using **marimo**, a modern framework for
 
 ## 🔗 Links
 
-  * **Live App**: [coming soon ...]
+  * **Live App**: [handwritten-digit-recognizer](https://handwritten-digit-recognizer-qbgwuqu3xzahjufiq7zyvy.streamlit.app/)
   * **Source Notebook (marimo)**: [static.marimo.app/static/mnist-digit-recognizer](https://static.marimo.app/static/mnist-digit-recognizer-gkmn)
 
 -----
