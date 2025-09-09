@@ -2,9 +2,9 @@ streamlit
 streamlit-drawable-canvas
 tensorflow-cpu
 numpy
-# marimo
-# keras
+marimo
+keras
 matplotlib
-# scikit-learn
-# seaborn
+scikit-learn
+seaborn
 opencv-python
